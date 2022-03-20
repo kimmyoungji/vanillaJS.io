@@ -1,0 +1,29 @@
+.hidden {
+    display: none;
+}
+
+body {
+    background-image: url("img/1.jpg");
+    background-size:cover;
+    text-align: center;
+    font-family: 'Bebas Neue', cursive;
+    font-size: 50px;
+    /*font-family: 'Palette Mosaic', cursive;*/
+    color:ghostwhite;
+    margin-top: 200px;
+    
+}
+
+#todoForm input {
+    width: 400px;
+    height: 50px;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    border-bottom: 5px solid ghostwhite;
+    background:none;
+    font-size: 30px;
+    color: ghostwhite;
+    text-align: center;
+    font-family: 'Bebas Neue', cursive;
+}
